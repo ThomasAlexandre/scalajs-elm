@@ -1,7 +1,7 @@
 # Scala.js in Elm-style
 
 ## Purpose
-To illustrate the excellent blog post [Scala.js a la Elm](https://medium.com/@mark_dj/a-little-scala-js-experiment-4a8da7b8ab8c#.so9srvcwf) showing how to compose independent signals (ie observables) through an applicative (taken from the typelevel cats library)
+To illustrate the excellent blog post [Scala.js a la Elm](https://medium.com/@mark_dj/a-little-scala-js-experiment-4a8da7b8ab8c#.so9srvcwf) showing some demos on how to create reactive UIs by composing independent signals (ie observable streams) through an applicative functor (taken from the typelevel cats library).
 
 
 ## Technologies
